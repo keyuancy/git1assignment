@@ -1,4 +1,12 @@
+### Pull Request for Git Assignment
 
+**What I learned:**
+- Understanding of Git and GitHub workflows
+- The process of creating branches, making changes, and using pull requests
+- Differences between `git` and `GitHub`
+- How to add collaborators and open pull requests
+
+- 
 # Git Assignment - <Keyuancy>
 
 a. What is an issue?
