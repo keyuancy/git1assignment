@@ -3,7 +3,7 @@
 
 a. What is an issue?
 
-An issue is a way to track enhancements, tasks, or bugs for your projects. GitHub issues allow you to track your work and collaborate with others.
+An issue is a way to track enhancements, tasks, or bugs for your projects. GitHub issues allow you to track your work and collaborate with others. Issuie shows on repo pages as a project issues solution and team work tools to help folks solve the problem togehrther.
 b. What is a pull request?
 
 A pull request (PR) is a method of submitting contributions to a project. It allows developers to review, discuss, and approve changes before merging them into the main codebase.
